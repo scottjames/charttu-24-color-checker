@@ -11,6 +11,9 @@ struct ColorData {
 };
 
 // Array containing the 24 color checker values (read left-to-right, top-to-bottom)
+// Charttu 24 Color Checker
+// https://www.aliexpress.us/item/3256802326724478.html
+//
 const ColorData colorCheckerData[24] = {
     // Row 1
     {37.10,  14.00,  13.96,  114,  79,  66},
@@ -44,3 +47,5 @@ const ColorData colorCheckerData[24] = {
     {35.99,  -0.63,  -0.38,   83,  85,  85},
     {21.12,  -0.14,   0.31,   51,  51,  50}
 };
+
+
